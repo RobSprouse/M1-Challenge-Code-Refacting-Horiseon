@@ -1,3 +1,4 @@
+/* Style sheet for index.html  */
 /* Base */
 :root {
     --header-footer-font: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
@@ -12,15 +13,6 @@
 
 body {
     background-color: #d9dcd6;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Body */
@@ -59,6 +51,11 @@ p {
     margin-left: 25px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /* Hero Section */
 .hero {
     height: 800px;
@@ -70,6 +67,10 @@ p {
 }
 
 /* Main */
+p {
+    font-size: 16px;
+}
+
 .content {
     width: 75%;
     display: inline-block;
