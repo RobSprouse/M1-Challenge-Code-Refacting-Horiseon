@@ -40,11 +40,11 @@ The following image shows the web application's appearance:
 
 The following image shows the modified index.html file:
 
-> <img src="./assets/screenshots/indexhtml.png" width="1000" alt="Index.html was structured with semantic HTML elements, logically and independent of styling and positioning. The icon and image elements have accessible alt attributes and fall in sequential order. The title element has a concise, descriptive title.">
+><img src="./assets/screenshots/indexhtml.png" width="1000" alt="Index.html was structured with semantic HTML elements, logically and independent of styling and positioning. The icon and image elements have accessible alt attributes and fall in sequential order. The title element has a concise, descriptive title.">
 
 The following image shows the modified style.css file:
 
-> ![CSS selectors and properties in Style.css were reorganized and consolidated to follow a semantic structure. It was properly commented.](./assets/screenshots/stylecssl.png)
+><img src="./assets/screenshots/stylecssl.png" height="1000" alt="CSS selectors and properties in Style.css were reorganized and consolidated to follow a semantic structure. It was properly commented.">
 
 ## License
 
