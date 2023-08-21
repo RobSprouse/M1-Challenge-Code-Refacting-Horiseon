@@ -4,7 +4,7 @@
 
 This Repo was created to complete the University Of Richmond's, Coding Bootcamp, Module 1 Challenge. The challenge was to code refactor a website utilizing a provided repository. The following User Story and Acceptance Criteria was used to achieve the primary objective.
 
-## User Story
+### User Story
 
 ```
 AS A marketing agency
@@ -12,7 +12,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -40,7 +40,7 @@ The following image shows the web application's appearance:
 
 The following image shows the modified index.html file:
 
-> ![Index.html was structured with semantic HTML elements, logically and independent of styling and positioning. The icon and image elements have accessible alt attributes and fall in sequential order. The title element has a concise, descriptive title.](./assets/screenshots/indexhtml.png)
+> <img src="./assets/screenshots/indexhtml.png" width="1000" alt="Index.html was structured with semantic HTML elements, logically and independent of styling and positioning. The icon and image elements have accessible alt attributes and fall in sequential order. The title element has a concise, descriptive title.">
 
 The following image shows the modified style.css file:
 
